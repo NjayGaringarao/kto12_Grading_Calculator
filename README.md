@@ -28,20 +28,25 @@
 
 ## Documentation
 
-![Image1](documentation/images/P1.png)
-![Image2](documentation/images/P2.png)
-![Image3](documentation/images/P3.png)
-![Image4](documentation/images/P4.png)
-![Image5](documentation/images/P5.png)
-![Image6](documentation/images/P6.png)
-![Image7](documentation/images/P7.png)
-![Image8](documentation/images/P8.png)
-![Image9](documentation/images/P9.png)
-![Image10](documentation/images/P10.png)
-![Image11](documentation/images/P11.png)
-![Image12](documentation/images/P12.png)
-![Image13](documentation/images/P13.png)
-![Image14](documentation/images/P14.png)
+    - Program Functions 
+        ![Image1](documentation/images/P1.png)
+        ![Image2](documentation/images/P2.png)
+    - Computing Mode A
+        ![Image3](documentation/images/P3.png)
+        ![Image4](documentation/images/P4.png)
+    - Computing Mode B
+        ![Image5](documentation/images/P5.png)
+        ![Image6](documentation/images/P6.png)
+        ![Image7](documentation/images/P7.png)
+        ![Image8](documentation/images/P8.png)
+        ![Image9](documentation/images/P9.png)
+        ![Image10](documentation/images/P10.png)
+        ![Image11](documentation/images/P11.png)
+        ![Image12](documentation/images/P12.png)
+    - Computing in Mode C
+        ![Image13](documentation/images/P13.png)
+    - End
+        ![Image14](documentation/images/P14.png)
 
 ## Troubleshoot
 
