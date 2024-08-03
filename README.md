@@ -26,9 +26,9 @@ Developed in 2023 as a fulfillment in the subject Computer Programming 2
 ## Troubleshoot
 
 Since conio.h reference is included in the project, current gcc version may not support it. you may:
-A. Delete all association of conio.h in the source code to run.
-B. Find and install the version of GCC that supports conio.h.
-C. Do whatever you want.
+1. Delete all association of conio.h in the source code to run.
+2. Find and install the version of GCC that supports conio.h.
+3. Do whatever you want.
 
 ## Learn C
 
