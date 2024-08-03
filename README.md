@@ -1,7 +1,7 @@
 # Welcome to my first Program: KT012 Grading Calculator 👋
 
-This program aims to compute grades of an student by following the kto12 grading guidelines
-Developed in 2023 as a fulfillment in the subject Computer Programming 2
+- This program aims to compute grades of an student by following the kto12 grading guidelines.
+- Developed in 2023 as a fulfillment in the subject Computer Programming 2.
 
 ## Get started
 
