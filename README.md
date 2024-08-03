@@ -6,6 +6,7 @@
 - **Platform:** Windows 7/8/8.1/10/11
 
 ## Get started
+You may download and run the program from the [release](https://github.com/NjayGaringarao/kto12_Grading_Calculator/releases/tag/v1.0.0) or build it yourself.
 
 1.  Install GCC Compiler
     - To install GCC compiler in Windows, you can use choco (install it first)
