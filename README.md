@@ -70,18 +70,18 @@ Since conio.h reference is included in the project, current gcc version may not 
 To get started learning C, look at the following resources:
 
 1.  Fireship.io C Programming in 100 seconds
-    https://www.youtube.com/watch?v=U3aXWizDbQ4
+    - https://www.youtube.com/watch?v=U3aXWizDbQ4
 
 2.  Programiz C Programming for Beginners Playlist
-    https://www.youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e
+    - https://www.youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e
 
 3.  W3School C Tutorial
-    https://www.w3schools.com/c/
+    - https://www.w3schools.com/c/
 
 ## Want to talk to me?
 
 1.  Facebook : Jr Garingarao
-    https://www.facebook.com/nigel.garingarao
+    - https://www.facebook.com/nigel.garingarao
 
 2.  Telegram : Jr Garingarao
-    telegram.me/Jr_Garingarao
+    - telegram.me/Jr_Garingarao
