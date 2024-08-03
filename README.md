@@ -1,12 +1,15 @@
 # Welcome to my first Program: Kto12 Grading Calculator 👋
 
-- This program aims to compute grades of an student by following the kto12 grading guidelines.
-- Developed in 2023 as a fulfillment in the subject Computer Programming 2.
+- **Developed:** 2023
+- **Purpose:** Partial fulfillment for the subject Computer Programming 2
+- **Application Type:** Console-based application (Terminal, no GUI)
+- **Platform:** Windows 7/8/8.1/10/11
 
 ## Get started
 
 1.  Install GCC Compiler
-    To install GCC compiler in Windows, you can use choco (install it first)
+    - To install GCC compiler in Windows, you can use choco (install it first)
+        https://chocolatey.org/install
 
     ```PowerShell
      choco install mingw
@@ -22,6 +25,23 @@
     ```
 
     here main.c is the source file and kto12 as the output (you may run the output)
+
+## Documentation
+
+![Image1](documentation/images/P1.png)
+![Image2](documentation/images/P2.png)
+![Image3](documentation/images/P3.png)
+![Image4](documentation/images/P4.png)
+![Image5](documentation/images/P5.png)
+![Image6](documentation/images/P6.png)
+![Image7](documentation/images/P7.png)
+![Image8](documentation/images/P8.png)
+![Image9](documentation/images/P9.png)
+![Image10](documentation/images/P10.png)
+![Image11](documentation/images/P11.png)
+![Image12](documentation/images/P12.png)
+![Image13](documentation/images/P13.png)
+![Image14](documentation/images/P14.png)
 
 ## Troubleshoot
 
