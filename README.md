@@ -1,6 +1,6 @@
 # Welcome to my first Program: Kto12 Grading Calculator 👋
 
-- **Developed:** 2023
+- **Developed:** March 2023
 - **Purpose:** Partial fulfillment for the subject Computer Programming 1
 - **Application Type:** Console-based application (Terminal, no GUI)
 - **Platform:** Windows 7/8/8.1/10/11
